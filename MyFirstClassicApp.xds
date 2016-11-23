@@ -1,0 +1,57 @@
+{
+    "name": "MyFirstClassicApp",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "6.2.0.103",
+            "frameworkVersion": "6.2.0.981"
+        },
+        "urlPrefixTemplate": "http://localhost:{port}/{path}",
+        "urlPrefix": "http://localhost:64065/",
+        "canvasControls": {
+            "viewportSize": {
+                "name": "Auto Expand",
+                "builtIn": true,
+                "height": null,
+                "width": null
+            }
+        },
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "CRLF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true,
+        "installStatus": "Not Installed"
+    },
+    "xdsVersion": "4.0.2",
+    "xdsBuild": 209,
+    "schemaVersion": 1,
+    "upgradeVersion": 310000000001,
+    "framework": "ext62",
+    "viewOrderMap": {
+        "view": [
+            "c6ddc741-f4c3-4b75-935d-595ebfe750d5",
+            "ea0724e8-a8f8-482e-b076-9743c10d8253",
+            "addf4790-f763-42ef-ac80-22e4c4b4db7e"
+        ],
+        "store": [
+            "0c66dfe7-0c90-4a30-acc4-8e5c9f213529",
+            "83c06237-690e-4d7e-9c49-c6faf2c12d65"
+        ],
+        "controller": [],
+        "model": [
+            "719c8679-1e85-44c4-bf50-8190c1aba74c",
+            "59ff3901-7eb5-4798-afff-033c3d96e328"
+        ],
+        "resource": [
+            "fafa08c4-d1a9-422a-b4f8-7438e12ed2dc",
+            "d0248ff2-d9b6-4412-a2de-329a9c91df49"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
